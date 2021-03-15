@@ -4,7 +4,8 @@ Feel free to contact me or contribute to my personal projects!
 ```
 npx carolis
 ```
-![jWSBjla3G0](https://user-images.githubusercontent.com/29932210/111175958-adecf980-8587-11eb-83fc-91768be3e9f9.gif)
+![QA6lwNcPwe](https://user-images.githubusercontent.com/29932210/111177476-0375d600-8589-11eb-8830-fd781cb7f5af.gif)
+
 
 
 
