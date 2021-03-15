@@ -1,0 +1,25 @@
+{
+  "name": "carolis",
+  "version": "0.1.0",
+  "description": "Top Secret Info about Carolis",
+  "main": "./carolisInfo.json",
+  "scripts": {
+    "postversion": "npm publish"
+  },
+  "bin": {
+    "carolis": "./carolis.js"
+  },
+  "keywords": [
+    "caroliscaroles"
+  ],
+  "author": "Carolina Ale",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carolis/Carolis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Carolis/Carolis/issues"
+  },
+  "homepage": "https://github.com/Carolis/Carolis#readme"
+}
