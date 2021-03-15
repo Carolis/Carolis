@@ -1,9 +1,3 @@
-
-██   ██ ██ ██ 
-██   ██ ██ ██ 
-███████ ██ ██ 
-██   ██ ██    
-██   ██ ██ ██ 
                                              
 ### Welcome to my profile ≧◡≦ 
 Feel free to contact me or contribute to my personal projects!
