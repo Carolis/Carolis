@@ -1,30 +1,9 @@
                                              
-### Welcome to my profile ≧◡≦ 
-Feel free to contact me or contribute to my personal projects!
+### welcome to my profile ≧◡≦ 
+feel free contribute to my personal projects or teach me something new
 
-```
-npx carolis
-```
-![QA6lwNcPwe](https://user-images.githubusercontent.com/29932210/111177476-0375d600-8589-11eb-8830-fd781cb7f5af.gif)
+![tumblr_o1cmflRgDX1qlwqqzo2_500](https://user-images.githubusercontent.com/29932210/121401109-ba86b100-c92e-11eb-8ac0-28858b71b7df.gif)
 
+you can also run `npx carolis` to contact-me anywhere 
 
-
-
-
-
-<!--
-**Carolis/carolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-###### Credits to [Daciuk](https://github.com/fdaciuk) for this awesome idea!
+###### Credits to [Daciuk](https://github.com/fdaciuk) for this awesome package idea!
