@@ -1,9 +1,8 @@
                                              
 ### welcome to my profile ≧◡≦ 
-teach me something new!
 
-![tumblr_o1cmflRgDX1qlwqqzo2_500](https://user-images.githubusercontent.com/29932210/121401109-ba86b100-c92e-11eb-8ac0-28858b71b7df.gif)
+If you're reading this I challenge you to teach me something new
 
-run `npx carolis` to contact-me anywhere 
+<img alt="Piece of digital art containing me while sitting on my computer" src="https://user-images.githubusercontent.com/29932210/169415496-84a1da2d-693e-4e1d-9971-8be5faa2c330.png">
 
-###### Credits to [Daciuk](https://github.com/fdaciuk) for this awesome package idea!
+Please run `npx carolis` at your terminal to see all my contact info!
