@@ -1,8 +1,9 @@
 {
   "name": "carolis",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Top Secret Info about Carolis",
   "main": "./carolisInfo.json",
+  "type": "commonjs",
   "scripts": {
     "postversion": "npm publish"
   },
@@ -21,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/Carolis/Carolis/issues"
   },
-  "homepage": "https://github.com/Carolis/Carolis#readme"
+  "homepage": "https://github.com/Carolis/Carolis#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.6.0"
+  }
 }
